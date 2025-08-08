@@ -5,10 +5,10 @@
 
 
 
-- :zap: I love  Programming, Data Science, and Books
-- 👯 I’m looking to collaborate on Data Science Related Projects
-- 💬 Ask me about Python Programming, SQL,MongoDB, Data Visualisation Tools, Machine Learning Models etc.
-- 🤔 I’m looking for help with getting work in Data Science Domain
+- :zap: I love  AI, Programming, Data Science, and Books
+- 👯 I’m looking to collaborate on AI Related Projects
+- 💬 Ask me about Python Programming, SQL,MongoDB, Data Visualisation Tools, Machine Learning Models, AI  etc.
+- 🤔 I’m looking for help with getting work in Artificial Intelligence Domain
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@pritisagar0427)
