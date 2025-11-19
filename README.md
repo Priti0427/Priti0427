@@ -5,14 +5,14 @@
 
 
 
-- :zap: I love  AI, Programming, Data Science, and Books
+- :zap: I love  working on AI,ML, Programming, Data Science, and Books
 - 👯 I’m looking to collaborate on AI Related Projects
-- 💬 Ask me about Python Programming, SQL,MongoDB, Data Visualisation Tools, Machine Learning Models, AI  etc.
+- 💬 Ask me about AI, Python Programming, SQL,MongoDB, Data Visualisation Tools, Machine Learning Models  etc.
 - 🤔 I’m looking for help with getting work in Artificial Intelligence Domain
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@pritisagar0427)
-  - :office: [LinkedIn](https://www.linkedin.com/in/priti-sagar-293b18247)
+  - :office: [LinkedIn](https://www.linkedin.com/in/priti-sagar04/)
   
   
   
