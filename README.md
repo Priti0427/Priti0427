@@ -5,7 +5,7 @@
 
 
 
-- :zap: I love  working on AI,ML, Programming, Data Science, and Books
+- :zap: I love  working on AI, ML, Computer Vision, Programming, Data Science related stuffs
 - 👯 I’m looking to collaborate on AI Related Projects
 - 💬 Ask me about AI, Python Programming, SQL,MongoDB, Data Visualisation Tools, Machine Learning Models  etc.
 - 🤔 I’m looking for help with getting work in Artificial Intelligence Domain
