@@ -15,7 +15,7 @@
 ### About Me
 
 - ⚡ I love working on **AI, ML, Computer Vision, NLP, and Data Science**
-- 🔬 Currently an **AI Engineering Intern** working on LLM features, RAG workflows, and AWS infrastructure
+- 🔬 Currently an **AI Engineer** working on LLM features, RAG workflows, and AWS infrastructure
 - 🎓 **MS in AI & Machine Learning** @ Drexel University
 - 👯 Open to collaborating on **AI/ML research and open-source projects**
 - 💬 Ask me about **LLMs, RAG, Python, PyTorch, SQL, MongoDB, and ML systems**
